@@ -1,1 +1,1 @@
-This is a README File which will be updated as per the project progress.
+This is a README file which will be updated as per the project progress.
